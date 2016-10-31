@@ -35,7 +35,7 @@ app.set('view engine', 'handlebars');
 
 // Database configuration with mongoose
 //mongoose.connect('mongodb://localhost/week18day3mongoose');
-mongoose.connect('mongodb://heroku_8k5vjgfw:5npfpg9cg3n5b5guoo2g7724lo@ds053160.mlab.com:53160/heroku_8k5vjgfw');
+mongoose.connect('mongodb://heroku_rmgfzthh:p906j96am155uph46hjkrvlaqk@ds045785.mlab.com:45785/heroku_rmgfzthh');
 var db = mongoose.connection;
 
 // show any mongoose errors

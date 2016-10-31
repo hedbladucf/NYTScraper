@@ -1,2 +1,1 @@
 #NYTScraper
-# NYTScraper
