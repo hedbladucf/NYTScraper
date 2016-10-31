@@ -1,5 +1,5 @@
 {
-  "name": "NYTScrape",
+  "name": "NYTScraper",
   "version": "1.0.0",
   "description": "MongoDB Homework. Scrapes NYT articles and gives the user the option to comment.",
   "main": "server.js",
