@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hedbladucf/NYTScrape.git"
+    "url": "git+https://github.com/hedbladucf/NYTScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hedbladucf/NYTScrape/issues"
+    "url": "https://github.com/hedbladucf/NYTScraper/issues"
   },
-  "homepage": "https://github.com/hedbladucf/NYTScrape#readme",
+  "homepage": "https://github.com/hedbladucf/NYTScraper#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cheerio": "^0.22.0",
